@@ -13,7 +13,7 @@ function __init__()
     JLLWrappers.@generate_init_header(LittleCMS_jll, libpng_jll, Libtiff_jll)
     JLLWrappers.@init_library_product(
         libopenjp2,
-        "lib/libopenjp2.2.5.0.dylib",
+        "lib/libopenjp2.2.5.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
