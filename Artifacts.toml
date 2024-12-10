@@ -1,143 +1,151 @@
 [[OpenJpeg]]
 arch = "aarch64"
-git-tree-sha1 = "52d81aa62baf17da57f2276d1725be34da790529"
+git-tree-sha1 = "2ff422b3a2502720ed80a54a64c39baaebfd41b0"
 os = "macos"
 
     [[OpenJpeg.download]]
-    sha256 = "e28dbe18fc0c05a5512a6f9ceae3a578bcce9c42730e1a448d50d818b37132e3"
-    url = "https://github.com/JuliaBinaryWrappers/OpenJpeg_jll.jl/releases/download/OpenJpeg-v2.5.2+0/OpenJpeg.v2.5.2.aarch64-apple-darwin.tar.gz"
+    sha256 = "2865a2c06ab0535349f8b1102ebce76d2339e06c9c79b880052e38a926a8ae1a"
+    url = "https://github.com/JuliaBinaryWrappers/OpenJpeg_jll.jl/releases/download/OpenJpeg-v2.5.3+0/OpenJpeg.v2.5.3.aarch64-apple-darwin.tar.gz"
 [[OpenJpeg]]
 arch = "aarch64"
-git-tree-sha1 = "984bcbda9ca55716571cc0994b0d4b3bc31d9b88"
+git-tree-sha1 = "9b1fd548d607aa559cea66dd8fdbce24fc07b1c2"
 libc = "glibc"
 os = "linux"
 
     [[OpenJpeg.download]]
-    sha256 = "e61b750d1701a3806c8d41bf61d441d6b5c4de45edfcd71db53747653ead664a"
-    url = "https://github.com/JuliaBinaryWrappers/OpenJpeg_jll.jl/releases/download/OpenJpeg-v2.5.2+0/OpenJpeg.v2.5.2.aarch64-linux-gnu.tar.gz"
+    sha256 = "f059877d89491aa916fc68882be6af6d5d4c1fe849a45ca26b72edea18dd9585"
+    url = "https://github.com/JuliaBinaryWrappers/OpenJpeg_jll.jl/releases/download/OpenJpeg-v2.5.3+0/OpenJpeg.v2.5.3.aarch64-linux-gnu.tar.gz"
 [[OpenJpeg]]
 arch = "aarch64"
-git-tree-sha1 = "3d167e17b641911146c8d8898ec361b4848f39e7"
+git-tree-sha1 = "29eb3a9e9acbc43af47bcf02572e8fe7d7e4f32e"
 libc = "musl"
 os = "linux"
 
     [[OpenJpeg.download]]
-    sha256 = "a0b224edb84f32dab2650b6b2128148d64aeaecbb65913409bddae3c9cc92149"
-    url = "https://github.com/JuliaBinaryWrappers/OpenJpeg_jll.jl/releases/download/OpenJpeg-v2.5.2+0/OpenJpeg.v2.5.2.aarch64-linux-musl.tar.gz"
+    sha256 = "89748c4e8731e0d1bb7a69013c28c168dfd82bc8fe7bead927ae2165e5f4ce5d"
+    url = "https://github.com/JuliaBinaryWrappers/OpenJpeg_jll.jl/releases/download/OpenJpeg-v2.5.3+0/OpenJpeg.v2.5.3.aarch64-linux-musl.tar.gz"
 [[OpenJpeg]]
-arch = "armv6l"
-call_abi = "eabihf"
-git-tree-sha1 = "60362b1e68c61290ff4a6ec0550a146bc250ec3c"
-libc = "glibc"
-os = "linux"
-
-    [[OpenJpeg.download]]
-    sha256 = "be7c825124f4219f93fef112fbca56ba3ee03b7e92884b8377fd2f904ac8e3f2"
-    url = "https://github.com/JuliaBinaryWrappers/OpenJpeg_jll.jl/releases/download/OpenJpeg-v2.5.2+0/OpenJpeg.v2.5.2.armv6l-linux-gnueabihf.tar.gz"
-[[OpenJpeg]]
-arch = "armv6l"
-call_abi = "eabihf"
-git-tree-sha1 = "3c324df616363fe94f8962f5d590d1e9f7fb086c"
-libc = "musl"
-os = "linux"
-
-    [[OpenJpeg.download]]
-    sha256 = "bcfa38e30a2f76800d12fd075d318e5cb0d36247f4680c2c66eac8c99762a4b7"
-    url = "https://github.com/JuliaBinaryWrappers/OpenJpeg_jll.jl/releases/download/OpenJpeg-v2.5.2+0/OpenJpeg.v2.5.2.armv6l-linux-musleabihf.tar.gz"
-[[OpenJpeg]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "0c24bee8f9d647264b1f8b7fdd18d405d6d4bf4e"
-libc = "glibc"
-os = "linux"
-
-    [[OpenJpeg.download]]
-    sha256 = "95dde13e670a30425b9083e2aaefbbe1d10e516e75faad125cc9e508150ded9f"
-    url = "https://github.com/JuliaBinaryWrappers/OpenJpeg_jll.jl/releases/download/OpenJpeg-v2.5.2+0/OpenJpeg.v2.5.2.armv7l-linux-gnueabihf.tar.gz"
-[[OpenJpeg]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "047b9baf3e3bca2af4a6ba7bd3de37a7518da7fb"
-libc = "musl"
-os = "linux"
-
-    [[OpenJpeg.download]]
-    sha256 = "5e76299f4a92206ba852204e0faa22aba6740a5c14eb1336a0b27b772ad5c4b9"
-    url = "https://github.com/JuliaBinaryWrappers/OpenJpeg_jll.jl/releases/download/OpenJpeg-v2.5.2+0/OpenJpeg.v2.5.2.armv7l-linux-musleabihf.tar.gz"
-[[OpenJpeg]]
-arch = "i686"
-git-tree-sha1 = "664f3e75dee7ec58f1d0ff48f2c40342acfb110f"
-libc = "glibc"
-os = "linux"
-
-    [[OpenJpeg.download]]
-    sha256 = "d4c90a5cf2e78889792988f1095795ff2ad4ada0e4b6db1fab6a7fc369864e43"
-    url = "https://github.com/JuliaBinaryWrappers/OpenJpeg_jll.jl/releases/download/OpenJpeg-v2.5.2+0/OpenJpeg.v2.5.2.i686-linux-gnu.tar.gz"
-[[OpenJpeg]]
-arch = "i686"
-git-tree-sha1 = "e1db31573c21fde06e3f6c7cb77c308b5a2b42e5"
-libc = "musl"
-os = "linux"
-
-    [[OpenJpeg.download]]
-    sha256 = "d95550eae2b7bea4c2ced762ed5edcb114ab047550551873e875953c5647ca9d"
-    url = "https://github.com/JuliaBinaryWrappers/OpenJpeg_jll.jl/releases/download/OpenJpeg-v2.5.2+0/OpenJpeg.v2.5.2.i686-linux-musl.tar.gz"
-[[OpenJpeg]]
-arch = "i686"
-git-tree-sha1 = "c85f4128e35df8de4f29d80ff09abf516a9ccc61"
-os = "windows"
-
-    [[OpenJpeg.download]]
-    sha256 = "afc3912965b1e1c655b622c4e6bde1f925ca7b8039fc56f60b2cc6aba4e16ee4"
-    url = "https://github.com/JuliaBinaryWrappers/OpenJpeg_jll.jl/releases/download/OpenJpeg-v2.5.2+0/OpenJpeg.v2.5.2.i686-w64-mingw32.tar.gz"
-[[OpenJpeg]]
-arch = "powerpc64le"
-git-tree-sha1 = "fb2e6fe8861f17200a718f8c105ae69ff5078aac"
-libc = "glibc"
-os = "linux"
-
-    [[OpenJpeg.download]]
-    sha256 = "028f8cf0ddaea8ff36a5b02b5df06908435152bd56f77ff41496282a2c559f36"
-    url = "https://github.com/JuliaBinaryWrappers/OpenJpeg_jll.jl/releases/download/OpenJpeg-v2.5.2+0/OpenJpeg.v2.5.2.powerpc64le-linux-gnu.tar.gz"
-[[OpenJpeg]]
-arch = "x86_64"
-git-tree-sha1 = "d553fadf062d2556be12e14c7e5ae1cf0c2fac2a"
-os = "macos"
-
-    [[OpenJpeg.download]]
-    sha256 = "933efbe5ae07aa17354ff5c54dc3905873d8e65fe864932f34da94a5b3a9149d"
-    url = "https://github.com/JuliaBinaryWrappers/OpenJpeg_jll.jl/releases/download/OpenJpeg-v2.5.2+0/OpenJpeg.v2.5.2.x86_64-apple-darwin.tar.gz"
-[[OpenJpeg]]
-arch = "x86_64"
-git-tree-sha1 = "6d50ec57623086d99f52adaca937717ae4c06c8a"
-libc = "glibc"
-os = "linux"
-
-    [[OpenJpeg.download]]
-    sha256 = "85674c014e04bebb864a51977ab0da871f8c142b11343daedc5b35dbad9785e4"
-    url = "https://github.com/JuliaBinaryWrappers/OpenJpeg_jll.jl/releases/download/OpenJpeg-v2.5.2+0/OpenJpeg.v2.5.2.x86_64-linux-gnu.tar.gz"
-[[OpenJpeg]]
-arch = "x86_64"
-git-tree-sha1 = "4f17389bed0a42db5021830b25d34175d8f826c5"
-libc = "musl"
-os = "linux"
-
-    [[OpenJpeg.download]]
-    sha256 = "894c1ba8d90f77eddaddd2bbf63e6ffb216db14cc007d2c86754162b5fc691db"
-    url = "https://github.com/JuliaBinaryWrappers/OpenJpeg_jll.jl/releases/download/OpenJpeg-v2.5.2+0/OpenJpeg.v2.5.2.x86_64-linux-musl.tar.gz"
-[[OpenJpeg]]
-arch = "x86_64"
-git-tree-sha1 = "988eada9f376f887bc1a2e322ec29c7a1357111b"
+arch = "aarch64"
+git-tree-sha1 = "87cc8619c143eba6cde33822beeb483c639a993e"
 os = "freebsd"
 
     [[OpenJpeg.download]]
-    sha256 = "0076b8d728feade0f01907f2449a173b7f9cd1faa3a1ed055b75187dfb74f898"
-    url = "https://github.com/JuliaBinaryWrappers/OpenJpeg_jll.jl/releases/download/OpenJpeg-v2.5.2+0/OpenJpeg.v2.5.2.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "7df9bd9055c0fec9aa1e0d2d25ae228235d061fada9d33586168587970b1dbff"
+    url = "https://github.com/JuliaBinaryWrappers/OpenJpeg_jll.jl/releases/download/OpenJpeg-v2.5.3+0/OpenJpeg.v2.5.3.aarch64-unknown-freebsd.tar.gz"
 [[OpenJpeg]]
-arch = "x86_64"
-git-tree-sha1 = "54bc5d0482108725a21607a2d25cd2e98aaa900e"
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "34c9311ef3d99d5062c5ebed38689f3a94aa3e28"
+libc = "glibc"
+os = "linux"
+
+    [[OpenJpeg.download]]
+    sha256 = "da067eeacaa21943706cf7fbad75a5701a3fe67b8f23af59e4f8ba7422517ace"
+    url = "https://github.com/JuliaBinaryWrappers/OpenJpeg_jll.jl/releases/download/OpenJpeg-v2.5.3+0/OpenJpeg.v2.5.3.armv6l-linux-gnueabihf.tar.gz"
+[[OpenJpeg]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "4700802dcc2ec799dab633cbe95770ed3f53c9ef"
+libc = "musl"
+os = "linux"
+
+    [[OpenJpeg.download]]
+    sha256 = "c0020c82aac6375a5be6b7d127921832bba9efddcf3afb4c87cb19d2a39427ce"
+    url = "https://github.com/JuliaBinaryWrappers/OpenJpeg_jll.jl/releases/download/OpenJpeg-v2.5.3+0/OpenJpeg.v2.5.3.armv6l-linux-musleabihf.tar.gz"
+[[OpenJpeg]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "5cf368b4d8344298b0c5b6e51a1b461c3210e5f4"
+libc = "glibc"
+os = "linux"
+
+    [[OpenJpeg.download]]
+    sha256 = "2f6423a6b12812aa77fa12978c440bf7cae12f0e2406b502801e50b76a3da394"
+    url = "https://github.com/JuliaBinaryWrappers/OpenJpeg_jll.jl/releases/download/OpenJpeg-v2.5.3+0/OpenJpeg.v2.5.3.armv7l-linux-gnueabihf.tar.gz"
+[[OpenJpeg]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "cb76cb2222b6c384d5706f0a5f4787af915171f0"
+libc = "musl"
+os = "linux"
+
+    [[OpenJpeg.download]]
+    sha256 = "9db3339d535dc4e7d745444048615b8853cb7e46db51226b36e70bfd63db5a12"
+    url = "https://github.com/JuliaBinaryWrappers/OpenJpeg_jll.jl/releases/download/OpenJpeg-v2.5.3+0/OpenJpeg.v2.5.3.armv7l-linux-musleabihf.tar.gz"
+[[OpenJpeg]]
+arch = "i686"
+git-tree-sha1 = "318c1e5fa6b7a0d7cb2356cb681570820660eff0"
+libc = "glibc"
+os = "linux"
+
+    [[OpenJpeg.download]]
+    sha256 = "200817efc8c9a0a7642b1e1c0d4e78a83369e393a0ec181da5ad120c884a9c06"
+    url = "https://github.com/JuliaBinaryWrappers/OpenJpeg_jll.jl/releases/download/OpenJpeg-v2.5.3+0/OpenJpeg.v2.5.3.i686-linux-gnu.tar.gz"
+[[OpenJpeg]]
+arch = "i686"
+git-tree-sha1 = "fb58274f2c7ed5b1511c4080e758c129df48d8ea"
+libc = "musl"
+os = "linux"
+
+    [[OpenJpeg.download]]
+    sha256 = "3810897f7c76cd47f9d65b8123783db9947b6712b93fc155e570e8eaba094ff6"
+    url = "https://github.com/JuliaBinaryWrappers/OpenJpeg_jll.jl/releases/download/OpenJpeg-v2.5.3+0/OpenJpeg.v2.5.3.i686-linux-musl.tar.gz"
+[[OpenJpeg]]
+arch = "i686"
+git-tree-sha1 = "fda6c08ee05970e1f0d469409b4117f5e5700e7c"
 os = "windows"
 
     [[OpenJpeg.download]]
-    sha256 = "0ad436efb22b65789ea4467c2f51d77f551d47ecbae160b60708cb454ad92452"
-    url = "https://github.com/JuliaBinaryWrappers/OpenJpeg_jll.jl/releases/download/OpenJpeg-v2.5.2+0/OpenJpeg.v2.5.2.x86_64-w64-mingw32.tar.gz"
+    sha256 = "09f89933b6801f34cf0eccdc47e58282d2da05dfeb264012d458d2c3b0c2ec4e"
+    url = "https://github.com/JuliaBinaryWrappers/OpenJpeg_jll.jl/releases/download/OpenJpeg-v2.5.3+0/OpenJpeg.v2.5.3.i686-w64-mingw32.tar.gz"
+[[OpenJpeg]]
+arch = "powerpc64le"
+git-tree-sha1 = "b7a6318a00971dd91b0e80821bb8a4b2c3849809"
+libc = "glibc"
+os = "linux"
+
+    [[OpenJpeg.download]]
+    sha256 = "521415a8cf72f3f0e48d1f1bcf829cb661f73d9ec513a46603865a4337e144e4"
+    url = "https://github.com/JuliaBinaryWrappers/OpenJpeg_jll.jl/releases/download/OpenJpeg-v2.5.3+0/OpenJpeg.v2.5.3.powerpc64le-linux-gnu.tar.gz"
+[[OpenJpeg]]
+arch = "x86_64"
+git-tree-sha1 = "f72421227c8a23bd46521b9c3e0b0967af99552b"
+os = "macos"
+
+    [[OpenJpeg.download]]
+    sha256 = "96979071aa712b7e13922d365295b0af8b5032d3d4b0d8f51b9eb8f19b789b2e"
+    url = "https://github.com/JuliaBinaryWrappers/OpenJpeg_jll.jl/releases/download/OpenJpeg-v2.5.3+0/OpenJpeg.v2.5.3.x86_64-apple-darwin.tar.gz"
+[[OpenJpeg]]
+arch = "x86_64"
+git-tree-sha1 = "bd5fba4fc79585d857d6151e7bf3ccdb898af935"
+libc = "glibc"
+os = "linux"
+
+    [[OpenJpeg.download]]
+    sha256 = "48e6ec7fc369c8c1c73325fa3eb8a619c65977db6219f05b45f4a756c922d32c"
+    url = "https://github.com/JuliaBinaryWrappers/OpenJpeg_jll.jl/releases/download/OpenJpeg-v2.5.3+0/OpenJpeg.v2.5.3.x86_64-linux-gnu.tar.gz"
+[[OpenJpeg]]
+arch = "x86_64"
+git-tree-sha1 = "c0e6d6afb41a9f76bf9c1e135e37a337f62f54c9"
+libc = "musl"
+os = "linux"
+
+    [[OpenJpeg.download]]
+    sha256 = "a5b8e918bffed7c38ed9e7c6859ea059d7b2580a4c923a1bb324d860002686c2"
+    url = "https://github.com/JuliaBinaryWrappers/OpenJpeg_jll.jl/releases/download/OpenJpeg-v2.5.3+0/OpenJpeg.v2.5.3.x86_64-linux-musl.tar.gz"
+[[OpenJpeg]]
+arch = "x86_64"
+git-tree-sha1 = "85d366de641d3c49e104b844d42b0fbd7d4e344a"
+os = "freebsd"
+
+    [[OpenJpeg.download]]
+    sha256 = "a6029614e780d1fe7e02bedd51962bd550006b85f5067f80bfa3baa48b3d16ad"
+    url = "https://github.com/JuliaBinaryWrappers/OpenJpeg_jll.jl/releases/download/OpenJpeg-v2.5.3+0/OpenJpeg.v2.5.3.x86_64-unknown-freebsd.tar.gz"
+[[OpenJpeg]]
+arch = "x86_64"
+git-tree-sha1 = "6bf7c4d4dd1697d75632e757d8b73d46f6bfd8a7"
+os = "windows"
+
+    [[OpenJpeg.download]]
+    sha256 = "8c6de246882addd7161048231145be4e925d7af45bb7dcfde825f02c48716e6c"
+    url = "https://github.com/JuliaBinaryWrappers/OpenJpeg_jll.jl/releases/download/OpenJpeg-v2.5.3+0/OpenJpeg.v2.5.3.x86_64-w64-mingw32.tar.gz"
